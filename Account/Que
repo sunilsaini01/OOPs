@@ -1,0 +1,10 @@
+Create a class **Account** with the following attributes:
+
+1. **balance**
+1. **account_number**
+
+Create the following methods:
+
+**debit(amount)** — Deduct the given amount from the account balance if sufficient balance is available. Display the debited amount and the updated balance.
+
+**credit(amount)** — Add the given amount to the account balance if the amount is valid. Display the credited amount and the updated balance
