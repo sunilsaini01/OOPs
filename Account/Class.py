@@ -20,7 +20,8 @@ class Account:
             
             print("Credited amount", amount)
             print("Updated balance", self.balance)
-            
+        else:
+            print(" invalid amount")
             
 account = Account(10000, 101)
 account.credit(2000)
